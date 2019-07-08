@@ -1,24 +1,21 @@
-# README
+```
+ _                   _                   _
+| |    ___  __ _  __| |_ __   ___   ___ | |
+| |   / _ \/ _` |/ _` | '_ \ / _ \ / _ \| |
+| |__|  __/ (_| | (_| | |_) | (_) | (_) | |__
+|_____\___|\__,_|\__,_| .__/ \___/ \___/|____|
+                      |_|
+===========================
+```
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+What does Leadpool do?
+----------------------
 
-* Ruby version
+It show lost leads on a map to businesses in such a way that they can have a look at all active leads available in their area.
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
